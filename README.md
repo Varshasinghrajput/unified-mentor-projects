@@ -1,2 +1,2 @@
 # unified-mentor-projects
-author - varsha singh
+author - Varsha Singh
